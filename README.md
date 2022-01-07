@@ -1,7 +1,7 @@
 # Developing a system for the purpose of one-off activity 
 
 
-## Development by Jean marcos de Souza
+## Development by Jean Marcos de Souza
 
 
 ### Librarys
