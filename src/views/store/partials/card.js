@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Button, Container, Row, Card, Form, Col, Stack, } from 'react-bootstrap';
 import { AiOutlinePlus, AiOutlineLine } from 'react-icons/ai';
-import itensLojaData from '../../components/itensLojaData';
+import itensLojaData from '../../../repositories/itensLojaData';
 
 export default function Cards() {
     const produtosData = itensLojaData;
